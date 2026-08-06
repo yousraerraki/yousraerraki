@@ -1,35 +1,33 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Yousra%20Erraki&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+
 <h1 align="center">
 Hi 👋, I'm Yousra Erraki
 </h1>
 
+
 <h3 align="center">
-AI & Data Engineering Student | Machine Learning | NLP | Software Engineering
+🤖 AI & Data Engineering Student | Machine Learning | NLP | Generative AI
 </h3>
 
+
 <p align="center">
-🎓 Engineering Student at EMSI Rabat  
-🤖 Passionate about Artificial Intelligence and Data Science  
-🚀 Building intelligent applications with AI and automation
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineering+Student;Machine+Learning+Enthusiast;NLP+%7C+RAG+%7C+Generative+AI;Building+Intelligent+Applications" />
+
 </p>
 
----
 
-## 👩‍💻 About Me
+<p align="center">
 
-I am a Computer Engineering student specialized in AI & Data Engineering.
+🎓 Engineering Student at EMSI Rabat  
+<br>
+🤖 Passionate about Artificial Intelligence and Data Science  
+<br>
+🚀 Building intelligent applications with AI and automation
 
-My interests include:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning & Deep Learning
-- 💬 Natural Language Processing
-- 📚 RAG Systems & Generative AI
-- 📊 Data Analytics and Visualization
-- ⚙️ Backend Engineering
-
-Currently working on AI-powered applications and looking for internship opportunities in:
-
-- AI Engineering
-- Data Science
-- Machine Learning
-- Software Development
+</p>
