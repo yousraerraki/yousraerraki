@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋, I'm Yousra Erraki
+</h1>
 
-<!--
-**yousraerraki/yousraerraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI & Data Engineering Student | Machine Learning | NLP | Software Engineering
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 Engineering Student at EMSI Rabat  
+🤖 Passionate about Artificial Intelligence and Data Science  
+🚀 Building intelligent applications with AI and automation
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+I am a Computer Engineering student specialized in AI & Data Engineering.
+
+My interests include:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 💬 Natural Language Processing
+- 📚 RAG Systems & Generative AI
+- 📊 Data Analytics and Visualization
+- ⚙️ Backend Engineering
+
+Currently working on AI-powered applications and looking for internship opportunities in:
+
+- AI Engineering
+- Data Science
+- Machine Learning
+- Software Development
